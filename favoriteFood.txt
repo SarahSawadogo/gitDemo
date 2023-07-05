@@ -1,1 +1,3 @@
-My name is Sarah Sawadogo and my favorite food is rice!
+Name: Sarah Sawadogo
+v- account: v-ssawadogo
+food: Rice!
